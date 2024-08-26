@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 29.99,
+        "stock": 150,
+        "rating": 4.5,
+        "description": "A smooth and responsive wireless mouse with ergonomic design.",
+        "image": "https://example.com/images/wireless-mouse.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Headphones",
+        "price": 89.99,
+        "stock": 80,
+        "rating": 4.7,
+        "description": "Over-ear Bluetooth headphones with noise cancellation and high sound quality.",
+        "image": "https://example.com/images/bluetooth-headphones.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Laptop Stand",
+        "price": 35.00,
+        "stock": 200,
+        "rating": 4.2,
+        "description": "Adjustable laptop stand to improve ergonomics and reduce neck strain.",
+        "image": "https://example.com/images/laptop-stand.jpg"
+    },
+    {
+        "id": 4,
+        "name": "USB-C Hub",
+        "price": 24.99,
+        "stock": 120,
+        "rating": 4.4,
+        "description": "Compact USB-C hub with multiple ports for enhanced connectivity.",
+        "image": "https://example.com/images/usb-c-hub.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "price": 199.99,
+        "stock": 50,
+        "rating": 4.8,
+        "description": "Feature-rich smartwatch with fitness tracking and notification alerts.",
+        "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Portable Charger",
+        "price": 15.99,
+        "stock": 300,
+        "rating": 4.3,
+        "description": "High-capacity portable charger for on-the-go power needs.",
+        "image": "https://example.com/images/portable-charger.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Gaming Keyboard",
+        "price": 79.99,
+        "stock": 70,
+        "rating": 4.6,
+        "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+        "image": "https://example.com/images/gaming-keyboard.jpg"
+    },
+    {
+        "id": 8,
+        "name": "4K Monitor",
+        "price": 349.99,
+        "stock": 40,
+        "rating": 4.9,
+        "description": "Ultra-high-definition 4K monitor with excellent color accuracy and clarity.",
+        "image": "https://example.com/images/4k-monitor.jpg"
+    },
+    {
+        "id": 9,
+        "name": "External Hard Drive",
+        "price": 119.99,
+        "stock": 90,
+        "rating": 4.4,
+        "description": "1TB external hard drive for secure and reliable data storage.",
+        "image": "https://example.com/images/external-hard-drive.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Webcam",
+        "price": 49.99,
+        "stock": 60,
+        "rating": 4.1,
+        "description": "HD webcam with built-in microphone for clear video calls.",
+        "image": "https://example.com/images/webcam.jpg"
+    }
+]
